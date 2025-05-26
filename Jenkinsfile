@@ -16,7 +16,7 @@ pipeline{
     }
 
     parameters {
-        string defaultValue: '${BUILD_NUMBER}', description: 'Enter the version of the docker image', name: 'VERSION'
+        string defaultValue: '${BUILD_NUMBER}', description: 'the version of the docker image', name: 'VERSION'
     }
 
     stages{
