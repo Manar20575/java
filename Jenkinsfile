@@ -1,3 +1,3 @@
-@Library('lib1') _
+@Library('libT1') _
 
 pipelinePy()
