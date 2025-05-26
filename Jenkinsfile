@@ -1,2 +1,3 @@
-@Library('libT1') _
-import pipelinePy.*
+@Library('lib1') _
+
+pipelinePy()
